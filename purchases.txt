@@ -1,0 +1,10 @@
+827.34
+Entertainment,Skate rental,30.00
+Entertainment,LEGO DUPLO Town Farm Animals,10.00
+Clothes,Wrangler Men's Stretch Cargo Pant,19.97
+Clothes,Men's Dual Defense Crew Socks 12 Pairs,13.00
+Food,Almond 250g,35.43
+Food,FIJI Natural Artesian Water,25.98
+Food,Hershey's milk chocolate bars,8.54
+Other,Sensodyne Pronamel Toothpaste,19.74
+Other,Chick-fil-A $10 Gift Card,10.00
